@@ -1,0 +1,6 @@
+{
+  "name": "sk/onefile",
+  "type": "project",
+  "description": "Single-file PHP app for Heroku",
+  "require": {}
+}
